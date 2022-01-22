@@ -1,3 +1,4 @@
+import math
 # print catalan numbers in the given range
 r = int(input("Enter the no.of terms: "))
 def print_catalan_num(r):
